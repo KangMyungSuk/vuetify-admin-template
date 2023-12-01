@@ -1,2 +1,24 @@
 # vuetify-admin-template
-{{SolidSchema}}  vuetify-admin-template basic by GYM CODING - study hard and update step by step 
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
